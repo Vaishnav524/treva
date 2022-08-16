@@ -1,0 +1,72 @@
+.wrp  a{
+    text-decoration: none;
+    color: black !important;
+  }
+.b1{
+    background-color:rgb(15, 223, 223);
+    border-radius:10px;
+    color:rgb(255, 255, 255);
+    font-size: large;
+    font-weight: bold;
+  }
+.P1{
+   background-color: rgb(214, 212, 212);
+}
+.area3{
+  text-align: center;
+  background-color: rgb(30, 202, 202);
+  
+}
+.area3 p{
+  color: white;
+font-size: 25px;
+font-weight: bold;
+padding-block-start: 30px;
+margin-bottom: 30px;
+}
+.input{
+ 
+  line-height: 4em; 
+    outline-width: 10em;
+    width: 50%;
+    color: rgb(161, 167, 162);
+    border: rgb(255,255,255);
+    border-radius: 5px;
+    margin-bottom: 30;
+}
+.area3 button{
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  border-radius: 10px;
+  font-size: large;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 50;
+}
+.footer{
+  background-color: rgb(14, 13, 13);
+ text-align: center;
+ padding-block-start: 60px;
+padding-block-end: 30px;
+padding-right: 30px;
+font-size:small;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.904);
+}
+.social-network li i{
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+}
+.social-network a{
+  text-decoration: none;
+  color: black !important;
+}
+a{
+  color: white !important;
+}
